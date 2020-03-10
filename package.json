@@ -1,0 +1,17 @@
+{
+  "name": "restaurent-online-ordering",
+  "version": "1.0.0",
+  "description": "Online Ordering Menu System for a Restaurent",
+  "keywords": [],
+  "dependencies": {
+    "react": "16.4.0",
+    "react-dom": "16.4",
+    "next": "6.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
